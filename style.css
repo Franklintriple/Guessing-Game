@@ -1,0 +1,108 @@
+.body, html{
+
+    margin: 0;
+    padding: 0;
+   background-color: rgb(8, 3, 3);
+    width: 100%;
+    height: 100%;
+    
+}
+
+.container{
+background-color: rgb(10, 42, 136);
+width: 70%;
+min-height: 500px;
+margin-left: auto;
+margin-right: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 150px;
+font-family: poppins;
+position: absolute;
+top: 20%;
+left: 15%;
+
+}
+
+.container1{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+
+.line{
+background-color: white;
+width: 10px;
+border-radius: 50px;
+height: 250px;
+
+}
+
+.content{
+
+    width: 200px;
+}
+
+.content h2 {
+
+    font-size: 56px ;
+    color: white;
+}
+
+.container2{
+background-color: white;
+width: 350px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+border-radius: 15px;
+
+}
+
+.content2{
+    padding: 40px;
+    
+}
+
+.header{
+    font-size: 18px;
+    line-height: 10px;
+   
+   
+}
+.button-container{
+
+    display: flex;
+    margin-top: 20px;
+    
+}
+.button-container a{
+    background-color: blue;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+}
+
+.button-container input{
+    background-color: blue;
+    width: 100px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 1px solid black;
+    font-size: 18px;
+    background-color: white;
+  color: black;
+}
+
