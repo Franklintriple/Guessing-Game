@@ -39,7 +39,7 @@
 
 window.addEventListener('DOMContentLoaded', (event) => {
     let count = 5; // Maximum number of tries
-    const correctGuess = 10;
+    const correctGuess = 10;// Guess Number 
     const footerElement = document.querySelector('.footer');
 
       // Set the initial content of the footer
