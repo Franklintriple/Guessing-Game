@@ -4,7 +4,7 @@
 // const input = document.querySelector('input').value;
 
 //     let count = 5; // Maximum number of tries
-//     const guess = 10;                                                                                                                
+//     const guess = 10;// Guess Number                                                                                                                
 //     console.log(guess)
 
 //     document.getElementById("btn").addEventListener("click", function() {
